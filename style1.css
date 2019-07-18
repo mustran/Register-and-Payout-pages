@@ -1,0 +1,27 @@
+body{
+    margin: 20px;
+}
+
+.container{
+    max-width: 400px;
+}
+
+.progress{
+    height: 25px;
+}
+
+label{
+    font-weight: 500
+}
+
+.insideButton{
+    border-radius: 30px;
+    padding: 0 5px;
+    background-color: white;
+    color: rgb(127, 199, 109);
+    font-weight: 500;
+}
+
+.colGreen{
+    background-color: rgb(127, 199, 109);
+}
